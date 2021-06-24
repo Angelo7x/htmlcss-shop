@@ -42,6 +42,7 @@
     right: 5px;
     top: 15px;
     background-color: white;
+    padding: 10px;
 
 }
 
@@ -56,3 +57,20 @@ s {
 .prova1 {
     position: absolute;
 }
+
+.sconto2 {
+    background-color: red;
+    color: white;
+    position: absolute;
+    bottom: 92px; 
+
+}
+
+.etichetta6 {
+    background-color: green;
+    color: white;
+    position: absolute;
+    bottom: 92px;
+}
+
+

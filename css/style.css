@@ -7,9 +7,33 @@
 .container {
     width: 80%;
     margin: auto;
-    background-color: pink;
 }
 
 .product {
+    display: inline-block;
+    width: calc(100% / 3);
+    padding: 5px;
+    /* background-color: purple;
+    border: 1px solid black; */
+
+}
+
+.product-img {
+    width: 100%;
+}
+
+.sconto {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    
+    
+    
+}
+.etichetta {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    
     
 }

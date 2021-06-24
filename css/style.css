@@ -14,8 +14,6 @@
     width: calc(100% / 3);
     padding: 5px;
     position: relative;
-    /* background-color: purple;
-    border: 1px solid black; */
 
 }
 
@@ -28,15 +26,15 @@
     background-color: red;
     color: white;
     position: absolute;
-    bottom: 50px;   
+    bottom: 30px;   
 }
 .etichetta {
     display: inline-block;
     background-color: green;
     color: white;
     position: absolute;
-    
-    
+    bottom: 30px;
+    left: 40px;
 }
 
 .heart {
@@ -45,4 +43,16 @@
     top: 15px;
     background-color: white;
 
+}
+
+.price {
+    color: red;
+    display: inline;
+}
+
+s {
+    display: inline;
+}
+.prova1 {
+    position: absolute;
 }
